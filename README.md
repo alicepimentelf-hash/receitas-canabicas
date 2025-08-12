@@ -12,14 +12,6 @@ Bem-vindo ao meu primeiro projeto em HTML! Este site é um pequeno livro de rece
 
 O site possui um menu interativo que permite acessar cada receita com facilidade.
 
-## 🚀 Como visualizar
-
-Você pode acessar o site diretamente pelo GitHub Pages:
-
-👉 [https://seu-usuario.github.io/receitas-canabicas](https://seu-usuario.github.io/receitas-canabicas)
-
-> Substitua `seu-usuario` pelo seu nome de usuário no GitHub.
-
 ## 🛠️ Tecnologias usadas
 
 - HTML5
